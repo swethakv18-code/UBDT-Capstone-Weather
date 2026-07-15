@@ -1,8 +1,11 @@
 # UBDT-Capstone-Weather
-##Project Overview
+## Project Overview
 Final capstone project using WeatherAUS dataset with EDA, SQL, Folium, Plotly Dash, and classification models.
-##Objective
+## Objective
 This repository contains the final capstone project for the Data Science specialization.  
 The project explores the **WeatherAUS dataset** using data wrangling, exploratory data analysis (EDA), SQL queries, interactive visualizations (Folium, Plotly Dash), and predictive classification models.
-##Deliverable
+## Deliverable
 The final deliverable is a **presentation PDF** that summarizes the entire workflow and results.
+## Final Presentation
+You can view the complete presentation here:  
+[Final_Project_Presentation.pdf](presentation/Final_Project_Presentation.pdf)
